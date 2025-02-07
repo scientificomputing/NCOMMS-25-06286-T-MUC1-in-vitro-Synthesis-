@@ -1,0 +1,4 @@
+Full original raw data obtained for the instrunment is downloadable from https://doi.org/10.5281/zenodo.14830662. data includes:
+
+-Batch 1 and Batch 2 are both acquired via Orbitrap using the same process conditions but run seperately. The raw data files from these two batches consist of one file per sample (.raw) and annotated according to the sample titile in the supporting information file.
+-Batch 3: includes the raw data from Synapt G2. two samples were aquired from this machine GALNT1 + C1GALT1 and GALNT2 + C1GALT1. The raw files from this batch consist of 22 files from each sample
