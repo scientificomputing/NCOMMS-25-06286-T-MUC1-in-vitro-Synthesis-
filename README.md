@@ -2,4 +2,4 @@
 Supporting raw data for "An in vitro one-pot synthetic biology approach to simulating diverging Golgi O-glycosylation of tumor-associated MUC1 from normal tissue MUC1." https://doi.org/10.21203/rs.3.rs-5783651/v1
 This repository contains:
   - PDB files of the initial coordinates from which QM/MM reaction dynamic simulations were run
-  - An exported mpeg and mp4 movie of a product forming trajectory isolated from the T20 system illustrating the generalized reaction mechanism of ST6GALNAC1
+  - MP4 movies of product forming trajectories for each system illustrating the generalized reaction mechanism of ST6GALNAC1
